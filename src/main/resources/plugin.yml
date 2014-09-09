@@ -1,0 +1,8 @@
+name: LiCETIA
+version: ${project.version}
+main: com.kaleydra.licetia.LiCETIA
+depend: [ProtocolLib]
+commands:
+    licetia:
+        help: shows version
+    
